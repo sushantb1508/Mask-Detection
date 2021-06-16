@@ -6,4 +6,11 @@ This project uses a Deep Neural Network, more specifically a Convolutional Neura
 
 # Working
 
+with mask
+![with_mask](https://user-images.githubusercontent.com/64475805/122226087-3f477100-ced3-11eb-8a1a-6a0722a7fa54.jpg)
+
+without mask
+![without_mask](https://user-images.githubusercontent.com/64475805/122226184-58e8b880-ced3-11eb-8d54-d108b24f8ad1.jpg)
+
+
 
